@@ -15,3 +15,11 @@ Before running the project, ensure you have the following installed:
 - **Maven**: For managing project dependencies.
 - **IDE**: Such as IntelliJ IDEA or Eclipse.
 - **Web Browser**: Google Chrome or Firefox (make sure to have the corresponding WebDriver).
+
+## Getting Started
+To get started with the project, follow these steps:
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/hassan141/Amazon-Automation.git
+2.**Navigate to the Project Directory**
