@@ -30,7 +30,7 @@ public class AddingProductToCart {
  		
  		System.setProperty("webdriver.chrome.driver", chromepath);
  		driver = new ChromeDriver();
- 		driver.manage().window().setSize(new Dimension(1280, 800));
+ 		driver.manage().window().setSize(new Dimension(1024, 768));
  		driver.get("https://www.amazon.com/");
  		 try {
              Thread.sleep(10000); // 10 seconds
