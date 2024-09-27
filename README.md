@@ -23,3 +23,12 @@ To get started with the project, follow these steps:
    ```bash
    git clone https://github.com/hassan141/Amazon-Automation.git
 2.**Navigate to the Project Directory**
+```bash
+   cd Amazon-Automation
+3. **Build the Project Use Maven to install the dependencies:**
+```bash
+   mvn install
+4. ** Run the Tests To execute the tests using TestNG, you can either run them directly from your IDE or use the command line:**
+```bash
+   mvn test
+
