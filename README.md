@@ -24,7 +24,7 @@ To get started with the project, follow these steps:
    git clone https://github.com/hassan141/Amazon-Automation.git
 2.**Navigate to the Project Directory**
    ```bash
-   cd Amazon-Automation
+         cd Amazon-Automation
 
 
 3.**Build the Project Use Maven to install the dependencies:**
