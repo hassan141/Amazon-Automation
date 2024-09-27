@@ -28,7 +28,7 @@ To get started with the project, follow these steps:
 
 
 3.**Build the Project Use Maven to install the dependencies:**
-   ```bash
+      ```bash
    mvn install
 
 
