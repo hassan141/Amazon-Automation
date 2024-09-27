@@ -25,7 +25,6 @@ To get started with the project, follow these steps:
 2.**Navigate to the Project Directory**
 ```bash
    cd Amazon-Automation
-2.**erterte**
 
 
 3.**Build the Project Use Maven to install the dependencies:**
