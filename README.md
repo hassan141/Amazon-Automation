@@ -31,4 +31,19 @@ To get started with the project, follow these steps:
 4. **Run the Tests To execute the tests using TestNG, you can either run them directly from your IDE or use the command line:**
 ```bash
    mvn test
+Navigate to the Project Directory
+
+bash
+Copy code
+cd Amazon-Automation
+Build the Project Use Maven to install the dependencies:
+
+bash
+Copy code
+mvn install
+Run the Tests To execute the tests using TestNG, you can either run them directly from your IDE or use the command line:
+
+bash
+Copy code
+mvn test
 
