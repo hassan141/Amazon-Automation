@@ -17,11 +17,7 @@ public class TodayDealsPage extends BasePage {
         clickElement(seemorebtn);
     }
 
-    private By headphonesCheckBox = By.xpath("//span[contains(@class, 'CheckboxFilter-module') and normalize-space(text())=\"Headphones & Earbuds\"]");
-    public void clickHeadphonesCheckBox() {
-        clickElement(headphonesCheckBox);
-    }
-
+   
     private By groceryCheckBox = By.xpath("//*[@id=\"DealsGridScrollAnchor\"]/div[2]/div[1]/div/span[15]/div/label/i");
     public void clickGroceryCheckBox() {
         clickElement(groceryCheckBox);
