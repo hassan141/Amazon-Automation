@@ -23,7 +23,7 @@ To get started with the project, follow these steps:
    ```bash
    git clone https://github.com/hassan141/Amazon-Automation.git
 2.**Navigate to the Project Directory**
-```bash
+   ```bash
    cd Amazon-Automation
 
 
